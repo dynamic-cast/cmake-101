@@ -13,3 +13,6 @@ $ cmake ..
 $ make
 ```
 
+## lodepng
+
+- https://lodev.org/lodepng/
