@@ -1,6 +1,6 @@
-# cmake-101
+# :woman_technologist: cmake-101
 
-## How to
+## :hammer_and_wrench: How to
 
 ```
 $ git clone git@github.com:dynamic-cast/cmake-101.git
@@ -13,6 +13,6 @@ $ cmake ..
 $ make
 ```
 
-## lodepng
+## :open_book: lodepng
 
 - https://lodev.org/lodepng/
